@@ -1,7 +1,7 @@
 # WindowsLegacyCVE
 
 ## CVE-2018-0748
-```
+ 
 Windows: NTFS Owner/Mandatory Label Privilege Bypass EoP 
 
 
@@ -50,11 +50,11 @@ visible to the public.
 
 Found by: forshaw
 
-```
+ 
 
 
 ## CVE-2018-0752
-```
+ 
 Windows: NtImpersonateAnonymousToken LPAC to Non-LPAC EoP 
 
 CVE-2018-0752
@@ -92,10 +92,10 @@ This bug is subject to a 90 day disclosure deadline. After 90 days elapse or a p
 Found by: forshaw
 
 
-```
+ 
 
 ## CVE-2018-0823
-```
+ 
 Windows: NPFS Symlink Security Feature Bypass/Elevation of Privilege/Dangerous Behavior 
 
 
@@ -142,10 +142,10 @@ This bug is subject to a 90 day disclosure deadline. After 90 days elapse or a p
 Found by: forshaw
 
 
-```
+ 
 
 ## CVE-2018-0826
-```
+ 
 Windows: StorSvc SvcMoveFileInheritSecurity Arbitrary File Creation EoP 
 
 CVE-2018-0826
@@ -188,10 +188,10 @@ This bug is subject to a 90 day disclosure deadline. After 90 days elapse or a p
 Found by: forshaw
 
 
-```
+ 
 
 ## CVE-2018-0982
-```
+ 
 Windows: Child Process Restriction Mitigation Bypass 
 
 CVE-2018-0982
@@ -261,4 +261,4 @@ This bug is subject to a 90 day disclosure deadline. After 90 days elapse or a p
 Found by: forshaw
 
 
-```
+ 
