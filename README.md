@@ -1,8 +1,5 @@
 # WindowsLegacyCVE
 
-# WindowsLegacyCVE
-
-
 ### CVE-2017-10204
 
 
