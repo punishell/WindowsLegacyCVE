@@ -1,5 +1,6 @@
 # WindowsLegacyCVE
 
+
 ### CVE-2017-10204
 
 
@@ -380,9 +381,9 @@ This bug is subject to a 90 day disclosure deadline. After 90 days elapse or a p
 
 
 
-### Found by: forshaw
+Found by: forshaw
 
-Intel: Content Protection HECI Service Type Confusion EoP 
+### Intel: Content Protection HECI Service Type Confusion EoP 
 
 CVE-2017-5717
 
@@ -482,9 +483,9 @@ visible to the public.
 
 
 
-### Found by: forshaw
+ Found by: forshaw
 
-Windows: Local XPS Print Spooler Sandbox Escape 
+### Windows: Local XPS Print Spooler Sandbox Escape 
 
 
 
@@ -534,9 +535,9 @@ This bug is subject to a 90 day disclosure deadline. After 90 days elapse or a p
 
 
 
-### Found by: forshaw
+ Found by: forshaw
 
-Windows: NTFS Owner/Mandatory Label Privilege Bypass EoP 
+### Windows: NTFS Owner/Mandatory Label Privilege Bypass EoP 
 
 CVE-2018-0748
 
